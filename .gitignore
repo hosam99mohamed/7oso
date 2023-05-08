@@ -1,0 +1,6 @@
+*.log 
+!vip.log
+node-packs/
+text.txt
+hosam.log.txt
+
